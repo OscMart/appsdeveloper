@@ -1,2 +1,2 @@
-# appsdeveloper.github.io
-This is just a project i did from school.
+# appsdeveloper
+This is just a project i did from schoolmate make me do.
